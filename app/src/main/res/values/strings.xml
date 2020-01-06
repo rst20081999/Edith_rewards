@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Edith rewards</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_accounts">Account</string>
+    <string name="tab_activity">TabActivity</string>
+
+
+</resources>
